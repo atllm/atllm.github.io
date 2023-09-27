@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Google on timellm</title>
-    <link>https://timellm.github.io/tags/google/</link>
-    <description>Recent content in Google on timellm</description>
+    <title>Google on atllm</title>
+    <link>https://atllm.github.io/tags/google/</link>
+    <description>Recent content in Google on atllm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Sep 2023 14:20:00 +0800</lastBuildDate><atom:link href="https://timellm.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 14:20:00 +0800</lastBuildDate><atom:link href="https://atllm.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Advanced Search syntax</title>
-      <link>https://timellm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</link>
+      <link>https://atllm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Tue, 12 Sep 2023 14:20:00 +0800</pubDate>
       
-      <guid>https://timellm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</guid>
+      <guid>https://atllm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</guid>
       <description>Google Advanced Search syntax 谷歌高级搜索语法 Google Advanced Search syntax Google搜索引擎提供了一些高级语法和运算符，可以帮助您更精确地进行搜索。以下是一些常见的高级搜索语法和运算符： 引号 将搜索词或短语放在引号内，以搜索完全匹配的内容。例</description>
     </item>
     

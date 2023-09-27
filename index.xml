@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>timellm</title>
-    <link>https://timellm.github.io/</link>
-    <description>Recent content on timellm</description>
+    <title>atllm</title>
+    <link>https://atllm.github.io/</link>
+    <description>Recent content on atllm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Sep 2023 14:20:00 +0800</lastBuildDate><atom:link href="https://timellm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 14:20:00 +0800</lastBuildDate><atom:link href="https://atllm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Advanced Search syntax</title>
-      <link>https://timellm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</link>
+      <link>https://atllm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Tue, 12 Sep 2023 14:20:00 +0800</pubDate>
       
-      <guid>https://timellm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</guid>
+      <guid>https://atllm.github.io/posts/%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%BA%A7%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95/</guid>
       <description>Google Advanced Search syntax 谷歌高级搜索语法 Google Advanced Search syntax Google搜索引擎提供了一些高级语法和运算符，可以帮助您更精确地进行搜索。以下是一些常见的高级搜索语法和运算符： 引号 将搜索词或短语放在引号内，以搜索完全匹配的内容。例</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>https://timellm.github.io/about/</link>
+      <link>https://atllm.github.io/about/</link>
       <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
       
-      <guid>https://timellm.github.io/about/</guid>
+      <guid>https://atllm.github.io/about/</guid>
       <description>Hugo 官方主页: https://gohugo.io/ Hugo的安装方式有两种，一种是直接下载编译好的Hugo二进制文件。如果只是使用Hugo推荐用这种方式。另一种方式是获取Hugo的源码，自己编译。由于各种不可预料的网络问题，第二种方式不</description>
     </item>
     
