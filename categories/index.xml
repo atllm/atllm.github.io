@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on atllm</title>
-    <link>https://atllm.github.io/categories/</link>
-    <description>Recent content in Categories on atllm</description>
+    <title>Categories on funllm</title>
+    <link>https://funllm.github.io/categories/</link>
+    <description>Recent content in Categories on funllm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://atllm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://funllm.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
